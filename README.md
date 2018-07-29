@@ -17,6 +17,6 @@ C:\Users\samte\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\pysc2
 
 ## Useful Commands
 Running pysc2 play file on the Simple64 map
-'''shell
+```shell
 python -m pysc2.bin.play --map Simple64
-'''
+```
