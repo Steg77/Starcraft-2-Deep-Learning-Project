@@ -100,3 +100,5 @@ python 2 and 3.
 ```shell
 $ python -m pysc2.bin.run_tests
 ```
+
+Test
